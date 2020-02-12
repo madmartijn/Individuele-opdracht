@@ -14,7 +14,7 @@
     Hierin worden alles opgeslagen over een les, oftewel: het lokaal, het vak, de docent en de klas
     Er is hiervoor gekozen, omdat deze klasse alle gegevens bij elkaar moet houden.
     Ook hebben wij de keuze gemaakt om een filter klasse toe te voegen, in deze klasse kun je op bepaalde onderdelen filteren
-![Klassendiagram]()
+![Klassendiagram]("C:\Periode 3\Class_Diagram_FP.jpg")
 
 ## Week 3
     In week 3 zijn we verdergegaan met het maken van de Agenda Module in IntelliJ
