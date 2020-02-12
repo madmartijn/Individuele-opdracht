@@ -1,6 +1,6 @@
 # Individuele-opdracht
 
-## Week 1
+## Week 2
     In week 1 zijn we begonnen met het voorbereiden van de Agenda module en de simulator zelf. 
     In deze week hebben we een plan van aanpak, de eerste UML-diagrammen en een schets van het GUI gemaakt.
     De keuzes die we gemaakt hebben, gaan vooral over het GUI en het klassendiagram van de Agenda module.
@@ -14,4 +14,7 @@
     Hierin worden alles opgeslagen over een les, oftewel: het lokaal, het vak, de docent en de klas
     Er is hiervoor gekozen, omdat deze klasse alle gegevens bij elkaar moet houden.
     Ook hebben wij de keuze gemaakt om een filter klasse toe te voegen, in deze klasse kun je op bepaalde onderdelen filteren
-![Klassendiagram](C:/Periode 3/Class_Diagram_FP.jpg)
+![Klassendiagram]()
+
+## Week 3
+    In week 3 zijn we verdergegaan met het maken van de Agenda Module in IntelliJ
