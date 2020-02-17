@@ -20,3 +20,6 @@
     Ik heb deze week weer vooral geholpen met het aanpassen van de Settings, maar ook met de error messages.
     Met settings is het niet gelukt om op tijd een edit en delete functie toe te voegen.
     Dit zal dus op het einde van het project nog moeten gebeuren.
+    De rest van de functies is wel af, het  is dus mogelijk om schedules op te slaan en in te laden.
+    Bij het opslaan wordt het huidige schedule gelijk leeggemaakt, het is dus een save & new functie.
+    Hiervoor hebben we gekozen, zodat de gebruiker niet prongelijk verkeerde objecten toe gaat voegen aan het schedule.
