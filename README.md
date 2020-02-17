@@ -23,3 +23,5 @@
     De rest van de functies is wel af, het  is dus mogelijk om schedules op te slaan en in te laden.
     Bij het opslaan wordt het huidige schedule gelijk leeggemaakt, het is dus een save & new functie.
     Hiervoor hebben we gekozen, zodat de gebruiker niet prongelijk verkeerde objecten toe gaat voegen aan het schedule.
+    In de code zelf hebben we gebruikt gemaakt van verschillende vBoxen.
+    Hierdoor kunnen we objecten die al aanwezig zijn, selecteren om andere objecten aan te maken.
