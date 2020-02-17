@@ -1,21 +1,22 @@
 # Individuele-opdracht
 
 ## Week 2
-    In week 1 zijn we begonnen met het voorbereiden van de Agenda module en de simulator zelf. 
-    In deze week hebben we een plan van aanpak, de eerste UML-diagrammen en een schets van het GUI gemaakt.
-    De keuzes die we gemaakt hebben, gaan vooral over het GUI en het klassendiagram van de Agenda module.
-### GUI
-    Laten we daarom beginnen met de keuzes over GUI, we hebben gekozen om het GUI volledig in JavaFX te maken.
-    We hebben voor JavaFX gekozen, omdat we daar de meeste ervaring in hadden en gelijk een idee hadden hoe we het GUI moesten maken.
-### Klassendiagram
-    We hebben in het klassendiagram gekozen om Calender centraal te stellen, in de calender is het mogelijk meerdere dagen te kiezen.
-    Er is gekozen voor meerdere dagen, omdat het niet moeilijk is van 1 dag naar meerdere te gaan.
-    Een ander centraal onderdeel van ons klassendiagram is de klasse Lesson
-    Hierin worden alles opgeslagen over een les, oftewel: het lokaal, het vak, de docent en de klas
-    Er is hiervoor gekozen, omdat deze klasse alle gegevens bij elkaar moet houden.
-    Ook hebben wij de keuze gemaakt om een filter klasse toe te voegen, in deze klasse kun je op bepaalde onderdelen filteren
-![Klassendiagram](C:/Periode 3/Class_Diagram_FP.jpg)
+    In Week 2 zijn we begonnen aan de agenda module, op basis van het klassendiagram en schetsen van het GUI.
+    Ik heb zelf niet veel code getypt, deze week, ik heb vooral mensen geholpen met het typen van hun code.
+    Dit is iets dat ik in komende weken wel meer moet gaan doen, ook zodat ik de code blijf begrijpen.
+    In de code hebben we de keuze gemaakt om op het startscherm 4 opties neer te zetten. 
+    1. Start simulation
+    2. Schedule picker
+    3. Settings
+    4. Contacts
+    (image toevoegen)
+    Zelf heb ik het meeste meegeholpen met het schrijven voor de code van Settings.
+    In deze code is het mogelijk om dingen toe te voegen aan een schedule.
+    Er is hierbij gekozen voor een dropdownbox, zodat elk object afzonderlijk kan worden aangemaakt.
 
 ## Week 3
-    In week 3 zijn we verdergegaan met het maken van de Agenda Module in IntelliJ.
-    Ook hebben we aan het Technisch document gewerkt. 
+    In week 3 heb ik al iets meer code geschreven, maar nog niet zo veel als ik zelf gehoopt had.
+    Dit is dus nog steeds een punt waarop ik snel moet verbeteren.
+    Ik heb deze week weer vooral geholpen met het aanpassen van de Settings, maar ook met de error messages.
+    Met settings is het niet gelukt om op tijd een edit en delete functie toe te voegen.
+    Dit zal dus op het einde van het project nog moeten gebeuren.
