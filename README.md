@@ -1,27 +1,23 @@
-# Individuele-opdracht
+# Herkansing Individueel
 
-## Week 2
-    In Week 2 zijn we begonnen aan de agenda module, op basis van het klassendiagram en schetsen van het GUI.
-    Ik heb zelf niet veel code getypt, deze week, ik heb vooral mensen geholpen met het typen van hun code.
-    Dit is iets dat ik in komende weken wel meer moet gaan doen, ook zodat ik de code blijf begrijpen.
-    In de code hebben we de keuze gemaakt om op het startscherm 4 opties neer te zetten. 
-    1. Start simulation
-    2. Schedule picker
-    3. Settings
-    4. Contacts
-    (image toevoegen)
-    Zelf heb ik het meeste meegeholpen met het schrijven voor de code van Settings.
-    In deze code is het mogelijk om dingen toe te voegen aan een schedule.
-    Er is hierbij gekozen voor een dropdownbox, zodat elk object afzonderlijk kan worden aangemaakt.
-
-## Week 3
-    In week 3 heb ik al iets meer code geschreven, maar nog niet zo veel als ik zelf gehoopt had.
-    Dit is dus nog steeds een punt waarop ik snel moet verbeteren.
-    Ik heb deze week weer vooral geholpen met het aanpassen van de Settings, maar ook met de error messages.
-    Met settings is het niet gelukt om op tijd een edit en delete functie toe te voegen.
-    Dit zal dus op het einde van het project nog moeten gebeuren.
-    De rest van de functies is wel af, het  is dus mogelijk om schedules op te slaan en in te laden.
-    Bij het opslaan wordt het huidige schedule gelijk leeggemaakt, het is dus een save & new functie.
-    Hiervoor hebben we gekozen, zodat de gebruiker niet prongelijk verkeerde objecten toe gaat voegen aan het schedule.
-    In de code zelf hebben we gebruikt gemaakt van verschillende vBoxen.
-    Hierdoor kunnen we objecten die al aanwezig zijn, selecteren om andere objecten aan te maken.
+## Week 6
+    In week 6 ben ik samen met de groep begonnen aan het programmeren van het project. 
+    Ik ben begonnen met het maken van het openingsscherm voor de app, deze was redelijk snel af.
+    Daarna ben ik verder gegaan met het klaarzetten en voorbereiden van de hardware.
+    Op dinsdag heb ik alle voorbereideningen en onderzoeken hiernaar gedaan.
+    Donderedag ben ik dan eindelijk begonnen aan de hardware, deze was snel klaargezet.
+    Daarna heb ik een stroomschema gemaakt en de code in Arduino geschreven, dit was rond het middaguur klaar.
+    De rest van de middag heb ik gewerkt aan een mqtt verbinding maken voor de server.
+    Deze is nog niet af dus hier werk in week 7 verder aan.
+    We hebben zowel dinsdag als donderdag een gesprek met onze Senior gehad om vragen te stellen.
+    In deze gesprekken hebben we een hoop keuzes gemaakt omtrend de data doorsturen.
+    De keuze was in dit geval of we dat via bluetooth wilden doen of via mqtt.
+    Uiteindelijk hebben we gekozen voor bluetooth omdat het voordeliger was met maar 1 persoon tegelijk doorlaten.
+    De bluetooth hebben we wel gemerkt dat het een stuk lastiger is en is na deze 2 sprints nog niet af.
+    Daarom lopen we nu een beetje achter op schema, maar dat gaan we rechttrekken door in week 7 extra te werken.
+    Ook is er besloten om een toch een reserve versie met mqtt te maken voor het geval dat de bluetooth te lang duurt.
+    
+## Week 7
+    In week 7 ben ik maandag, de dag dat we extra werken verder gegaan met de mqtt verbinging voor de server.
+    
+  
