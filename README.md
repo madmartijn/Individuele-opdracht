@@ -3,6 +3,10 @@
 ## Week 6
     In week 6 ben ik samen met de groep begonnen aan het programmeren van het project. 
     Ik ben begonnen met het maken van het openingsscherm voor de app, deze was redelijk snel af.
+    
+![openingsscherm image 1] ()
+![openingsscherm image 2] ()
+
     Daarna ben ik verder gegaan met het klaarzetten en voorbereiden van de hardware.
     Op dinsdag heb ik alle voorbereideningen en onderzoeken hiernaar gedaan.
     Donderedag ben ik dan eindelijk begonnen aan de hardware, deze was snel klaargezet.
@@ -28,6 +32,10 @@
     Ik heb voor deze lay-out gekozen, omdat deze efficiënt en simpel is, mensen kunnen hier niks mee fout doen.
     Aan het einde van de dag heb ik ook nog geholpen met het maken van de presentatie van de pre-release die op vrijdag gepland stond.
     In de tweede sprint van deze week heb ik verdere uitbreiding gemaakt aan het attractie informatie scherm.
+    
+![iformatiescherm image 1]()
+![informatiescherm image 2]()
+
     Ik heb een paar kleine aanpassingen gemaakt aan de tekst en opmaak, om de app net iets mooier en beter te lezen te maken.
     Ik ben ook begonnen aan een paar animaties toe voegen, dat begon met een paar activities te laten veranderen door te swipen.
     Dit is er uiteindelijk weer uitgehaald omdat er een menu werd gemaakt dat opengeswiped kon worden.
