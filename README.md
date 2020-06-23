@@ -4,7 +4,7 @@
     In week 6 ben ik samen met de groep begonnen aan het programmeren van het project. 
     Ik ben begonnen met het maken van het openingsscherm voor de app, deze was redelijk snel af.
     
-![openingsscherm image 1] ()
+[openingsscherm image 1] (https://github.com/madmartijn/Individuele-opdracht/blob/master/Screenshot_1592938478.png)
 ![openingsscherm image 2] ()
 
     Daarna ben ik verder gegaan met het klaarzetten en voorbereiden van de hardware.
