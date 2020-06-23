@@ -4,8 +4,8 @@
     In week 6 ben ik samen met de groep begonnen aan het programmeren van het project. 
     Ik ben begonnen met het maken van het openingsscherm voor de app, deze was redelijk snel af.
     
-[openingsscherm image 1] (https://github.com/madmartijn/Individuele-opdracht/blob/master/Screenshot_1592938478.png)
-![openingsscherm image 2] ()
+![openingsscherm image 1](Screenshot_1592938478.png)
+![openingsscherm image 2](Screenshot_1592938485.png)
 
     Daarna ben ik verder gegaan met het klaarzetten en voorbereiden van de hardware.
     Op dinsdag heb ik alle voorbereideningen en onderzoeken hiernaar gedaan.
@@ -33,8 +33,8 @@
     Aan het einde van de dag heb ik ook nog geholpen met het maken van de presentatie van de pre-release die op vrijdag gepland stond.
     In de tweede sprint van deze week heb ik verdere uitbreiding gemaakt aan het attractie informatie scherm.
     
-![iformatiescherm image 1]()
-![informatiescherm image 2]()
+![iformatiescherm image 1](Screenshot_1592938495.png)
+![informatiescherm image 2](Screenshot_1592938502.png)
 
     Ik heb een paar kleine aanpassingen gemaakt aan de tekst en opmaak, om de app net iets mooier en beter te lezen te maken.
     Ik ben ook begonnen aan een paar animaties toe voegen, dat begon met een paar activities te laten veranderen door te swipen.
@@ -46,16 +46,18 @@
     Ik ben begonnen met het zoeken op google, mijn eerste zoekactie was simulatie in software.
     Als je hier op zoekt krijg je een hoop advertenties van bedrijven die simulatiesoftware produceren.
     
-    Op deze site staat een lijst met computer simulatie software:
-    https://nl.qwe.wiki/wiki/List_of_computer_simulation_software
+    Op deze site staat een lijst met computer simulatie software: 
+https://nl.qwe.wiki/wiki/List_of_computer_simulation_software
+
     Hieruit blijkt dat er dus al een hoop verschillende simulatie software is.
     
     Je vind vooral auto simulatie software, waarbij voertuigmanoevres en draaicirkels worden gesimuleerd een site hiervoor is:
-    https://www.transoftsolutions.com/nl/rijcurve/software/autoturn/
+https://www.transoftsolutions.com/nl/rijcurve/software/autoturn/
+    
     Deze software wordt door 80% van de  ingenieursbureaus in Nederland gebruikt.
     
     Ook voor het coronavirus is al door middel van simulatiesoftware een beeld gemaakt voor een anderhalvemeter samenleving. 
-    https://www.uu.nl/nieuws/crowdsimulatie-software-maakt-inrichting-anderhalvemetersamenleving-zichtbaar
+https://www.uu.nl/nieuws/crowdsimulatie-software-maakt-inrichting-anderhalvemetersamenleving-zichtbaar
     
     Hierdoor kunnen we de conclusie dat in het bedrijfsleven steeds meer software wordt gesimuleerd en dat simulatie software steeds meer gebruikt wordt.
     
@@ -63,7 +65,7 @@
     Een applicatie die json gebruikt is Minecraft.
     Bij minecraft wordt json gebruikt om alle tekst, sounds en resources packs op te slaan.
     Maar ook alle data die op het launch scherm staan.
-    https://minecraft.gamepedia.com/JSON
+https://minecraft.gamepedia.com/JSON
 
     Steam is ook een applicatie die gebruikt van json.
     Dit gebeurt vooral voor het maken van nieuwe spellen door Valve.
